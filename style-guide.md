@@ -11,7 +11,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Violet: hsl(257, 40%, 49%)
+- Violet: hsl(257, 40%, 49%)			#674BAF
 
 ## Typography
 
